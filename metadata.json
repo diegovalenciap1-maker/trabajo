@@ -1,0 +1,6 @@
+{
+  "name": "Laboratorio de Árboles y Random Forest",
+  "description": "Herramienta interactiva y pedagógica para aprender Árboles de Decisión, Árboles de Regresión, Random Forest y ajuste de hiperparámetros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
